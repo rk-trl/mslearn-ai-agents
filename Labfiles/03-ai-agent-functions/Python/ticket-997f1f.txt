@@ -1,0 +1,4 @@
+Support ticket: 997f1f
+Submitted by: alex@contoso.com
+Description:
+User's computer won't start.

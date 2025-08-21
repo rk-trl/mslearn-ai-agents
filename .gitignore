@@ -98,6 +98,7 @@ env/
 venv.bak/
 venv.bak/
 /labenv/
+labenv/
 
 # Spyder project settings
 .spyderproject
